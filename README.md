@@ -1,4 +1,4 @@
-# STM32-DEV
+# STM-DEV
 <img width="2160" height="872" alt="3D_PCB1_2026-09-13" src="https://github.com/user-attachments/assets/3dbbd533-82b0-401f-92a7-56969ba2a4e9" />
 
 STM32-DEV is a small STM32F103C8T6 development board built to make working with real device data feel simple. It's paired with a dashboard so you can actually see what your board is doing instead of digging through raw logs — designed with an easy, no-fuss approach to reading and understanding data as it comes in.
